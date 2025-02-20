@@ -1,1 +1,2 @@
-# CLI-Todo-Manager
+# Python task-02
+CLI-Todo-Manager
